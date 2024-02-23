@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://neilc-itv.github.io/site-demo/'
 languageCode = 'en-us'
 title = 'An MIT website!'
 theme = 'ananke'
