@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neil&#39;s Website on An MIT website!</title>
-    <link>https://neilc-itv.github.io/site-demo/</link>
+    <link>http://localhost:1313/site-demo/page1/</link>
     <description>Recent content in Neil&#39;s Website on An MIT website!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://neilc-itv.github.io/site-demo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/site-demo/page1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://neilc-itv.github.io/site-demo/</loc>
-  </url><url>
     <loc>https://neilc-itv.github.io/site-demo/categories/</loc>
+  </url><url>
+    <loc>https://neilc-itv.github.io/site-demo/</loc>
   </url><url>
     <loc>https://neilc-itv.github.io/site-demo/tags/</loc>
   </url>
